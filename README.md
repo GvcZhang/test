@@ -1,4 +1,8 @@
 # test
+
+![logo](https://opensource.sensorsdata.cn/wp-content/uploads/logo.png)
+
+
 ## 讨论
 
 | 扫码加入神策数据开源社区 QQ 群<br>群号：785122381 | 扫码加入神策数据开源社区微信群 |
