@@ -10,3 +10,10 @@
 | 扫码关注<br>神策数据开源社区 | 扫码关注<br>神策数据开源社区服务号 |
 | ------ | ------ |
 |![ 微信订阅号 ](https://opensource.sensorsdata.cn/wp-content/uploads/ContentCommonPic_3.png) | ![ 微信服务号 ](https://opensource.sensorsdata.cn/wp-content/uploads/ContentCommonPic_4.png) |
+
+
+## 新书推荐
+
+| 《数据驱动：从方法到实践》 | 《Android 全埋点解决方案》 | 《iOS 全埋点解决方案》
+| ------ | ------ | ------ |
+| [![《数据驱动：从方法到实践》](docs/data_driven_book.jpg)](https://union-click.jd.com/jdc?e=&p=AyIGZRprFQEQBFYZWBYyVlgNRQQlW1dCFFlQCxxKQgFHREkdSVJKSQVJHFRXFk9FUlpGQUpLCVBaTFhbXQtWVmpSWRtYFwERBVYYa2FKZx0XchgUYnYEA0wjXgtAREt6JFMOHjdUK1sUAxIDUBxdHQQiN1Uca0NsEgZUGloUBxICVitaJQIWDlYcWBUGFQNVH1slBRIOZUcFSVx8QR5QayUyETdlK1slASJFO0lbRwtCAVEYDhUBEQIGGl0cVUYDVEwMFQYaAVFIC0dRIgVUGl8c) | [![《Android 全埋点解决方案》](docs/android_autotrack_book.jpg)](https://u.jd.com/2JFaeG) |  [![《iOS 全埋点解决方案》](docs/android_autotrack_book.jpg)]() | 
